@@ -37,3 +37,41 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 30px;
 }
+.discover h2 {
+  color: rgb(26, 26, 26);
+  font-size: 38px;
+  font-weight: 250;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+}
+.discover h2 sup {
+  color: rgb(152, 152, 154);
+  font-size: 14px;
+  font-weight: 250;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+}
+.discover p {
+  color: rgb(101, 101, 103);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0%;
+  margin-top: 20px;
+}
+.discover-btn-box button {
+  border-radius: 32px;
+  padding: 14px 20px;
+  background: rgb(255, 212, 0);
+  border: none;
+  color: rgb(38, 38, 38);
+  font-size: 14px;
+  font-weight: 250;
+  letter-spacing: 0%;
+}
+.discover ul li {
+  color: rgb(26, 26, 26);
+  font-size: 16px;
+  font-weight: 250;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+}
